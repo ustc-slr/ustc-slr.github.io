@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datasets | Visual Sign Language Research Group</title>
+    <link>https://example.com/datasets/</link>
+      <atom:link href="https://example.com/datasets/index.xml" rel="self" type="application/rss+xml" />
+    <description>Datasets</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
+      <title>Datasets</title>
+      <link>https://example.com/datasets/</link>
+    </image>
+    
+    <item>
+      <title>CSL-Daily Dataset</title>
+      <link>https://example.com/datasets/2021_csl_daily/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/datasets/2021_csl_daily/</guid>
+      <description>&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+    CSL-Daily is a large-scale continuous SLT dataset. 
+    It provides both spoken language translations and gloss-level annotations. 
+    The topic revolves around people&#39;s daily lives (e.g., travel, shopping, medical care), the most likely SLT application scenario.
+    &lt;!-- We have two Chinese sign language datasets for isolated Sign Language Recognition and continuous Sign Language Recognition, respectively. Both datasets are collected with Kinect 2.0 by 50 signers. Each signer perfors 5 times for every word (sentence). The sign videos are recorded with 30&lt;i&gt;fps&lt;/i&gt;. The distance between the signers and Kinect is about 1.5 meters. Each instance in both datasets contains &lt;b&gt;RGB videos&lt;/b&gt;, &lt;b&gt;depth videos&lt;/b&gt;, and &lt;b&gt;3D joints information&lt;/b&gt; of the signer. --&gt;
+&lt;/p&gt; 
+&lt;h2&gt;Download &lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	The CSL-Daily database is released to universities and research institutes for research purpose only. To request the access right to the data resources, please follow the instructions below: 
+	&lt;/p&gt;&lt;ol&gt;
+		&lt;li&gt;Download the &lt;a href=&#34;./Release-Agreement-CSL-Daily.pdf&#34; target=&#34;_blank&#34;&gt;&lt;font color=&#34;#FF0000&#34;&gt;CSL-Daily Dataset Release Agreement&lt;/font&gt;&lt;/a&gt;; 
+		&lt;/li&gt;&lt;li&gt;&lt;font color=&#34;#FF0000&#34;&gt;Read all items and conditions carefully&lt;/font&gt;;
+		&lt;/li&gt;&lt;li&gt;Complete it appropriately. Note that the agreement should be signed by &lt;font color=&#34;#FF0000&#34;&gt;a full-time staff member&lt;/font&gt; (that is, the student is not acceptable).
+		&lt;/li&gt;&lt;li&gt;Please scan the signed agreement, send it to (ustc_vslrg At 126.com) and CC to Prof. Zhou (zhwg At ustc.edu.cn). If you are a student, please also CC to the full-time staff member who sign the agreement.
+		&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Reference&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	Please cite the following papers if you use CSL-Daily for your research 
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;Hao Zhou, Wengang Zhou, Weizhen Qi, Junfu Pu, and Houqiang Li, &#34;Improving Sign Language Translation with Monolingual Data by Sign Back-Translation,&#34; &lt;i&gt;IEEE/CVF International Conference on Computer Vision and Pattern Recognition (CVPR)&lt;/i&gt;, 2021.&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	Besides, you can refer to the following papers for continuous SLR published by our group:
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;Hezhen Hu, Weichao Zhao, Wengang Zhou, and Houqiang Li, &#34;SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding,&#34; &lt;i&gt;IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI)&lt;/i&gt;, 2023.&lt;/li&gt;		
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Contact&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	If you have any questions about the dataset and our papers, please feel free to contact us:
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;&lt;a href=&#34;http://staff.ustc.edu.cn/~zhwg&#34; target=&#34;_blank&#34;&gt;Wengang Zhou&lt;/a&gt;, Professor, USTC, zhwg AT ustc.edu.cn&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;http://staff.ustc.edu.cn/~lihq/English.html&#34; target=&#34;_blank&#34;&gt;Houqiang Li&lt;/a&gt;, Professor, USTC, lihq AT ustc.edu.cn&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;https://ustc-slr.github.io/&#34; target=&#34;_blank&#34;&gt;Weichao Zhao&lt;/a&gt;, Ph.D Student, USTC, saruka AT mail.ustc.edu.cn&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;br&gt;</description>
+    </item>
+    
+    <item>
+      <title>NMFs-CSL Dataset</title>
+      <link>https://example.com/datasets/2020_nmfs_csl/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/datasets/2020_nmfs_csl/</guid>
+      <description>&lt;center&gt;&lt;img src=&#34;./Intro.jpg&#34; border=&#34;0&#34; width=&#34;85%&#34;&gt;&lt;/center&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	This &lt;b&gt;NMFs-CSL&lt;/b&gt; dataset explicitly emphasizes the importance of the non-manual features in sign language. It contains 1,067 Chinese sign words (610 confusing words (0~609), 457 normal words (610~1066)). It is collected with portable cameras on the mobile phones. The sign videos are recorded with 30&lt;i&gt;fps&lt;/i&gt;. Each instance in the dataset contains RGB videos. 
+&lt;/p&gt;
+&lt;h2&gt;Download (&lt;i&gt;&lt;font color=&#34;#FF0000&#34;&gt;*Important&lt;/font&gt; &lt;/i&gt;)&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+This &lt;b&gt;NMFs-CSL&lt;/b&gt; dataset contains 1,067 Chinese sign words. It is released to universities and research institutes for research purpose only. To request the access right to the data resources, please follow the instructions below: 
+	&lt;/p&gt;&lt;ol&gt;
+		&lt;li&gt;Download the &lt;a href=&#34;./Release%20Agreement-NMFs-CSL.pdf&#34; target=&#34;_blank&#34;&gt;&lt;font color=&#34;#FF0000&#34;&gt;NMFs-CSL Dataset Release Agreement&lt;/font&gt;&lt;/a&gt;; 
+		&lt;/li&gt;&lt;li&gt;Read it carefully;
+		&lt;/li&gt;&lt;li&gt;Complete it appropriately. Note that the agreement should be signed by &lt;font color=&#34;#FF0000&#34;&gt;a full-time staff member&lt;/font&gt; (that is, the student is not acceptable).
+		&lt;/li&gt;&lt;li&gt;Please scan the signed agreement and send it to (ustc_vslrg At 126.com) and CC to Prof. Zhou (zhwg At ustc.edu.cn) and the full-time staff member who sign the agreement.
+		&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Notation&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	If you use this NMFs-CSL dataset in your research, please cite the following papers:
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;Hezhen Hu, Wengang Zhou, Junfu Pu, and Houqiang Li, &#34;Global-Local Enhancement Network for NMF-Aware Sign Language Recognition,&#34; &lt;i&gt;ACM Trans. Multimedia Comput. Commun. Appl. (TOMM)&lt;/i&gt;, 2021.&lt;/li&gt;
+		&lt;li&gt;Hezhen Hu, Wengang Zhou, Junfu Pu, and Houqiang Li, &#34;Hand-Model-Aware Sign Language Recognition,&#34; &lt;i&gt;AAAI Conference on Artificial Intelligence (AAAI)&lt;/i&gt;, 2021.&lt;/li&gt;
+		&lt;li&gt;Hezhen Hu, Weichao Zhao, Wengang Zhou, and Houqiang Li, &#34;SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding,&#34; &lt;i&gt;IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI)&lt;/i&gt;, 2023.&lt;/li&gt;
+		&lt;li&gt;Hezhen Hu, Weichao Zhao, Wengang Zhou, Yuechen Wang, Houqiang Li, &#34;SignBERT: Pre-Training of Hand-Model-Aware Representation for Sign Language Recognition,&#34; &lt;i&gt;International Conference on Computer Vision (ICCV)&lt;/i&gt;, 2021.&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Contact&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	If you have any questions about the dataset and our papers, please feel free to contact us:
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;&lt;a href=&#34;http://staff.ustc.edu.cn/~lihq/English.html&#34; target=&#34;_blank&#34;&gt;Houqiang Li&lt;/a&gt;, Professor, USTC, lihq AT ustc.edu.cn&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&#34;http://staff.ustc.edu.cn/~zhwg&#34; target=&#34;_blank&#34;&gt;Wengang Zhou&lt;/a&gt;, Professor, USTC, zhwg AT ustc.edu.cn&lt;/li&gt;
+	    &lt;li&gt;&lt;a href=&#34;https://ustc-slr.github.io/&#34; target=&#34;_blank&#34;&gt;Weichao Zhao&lt;/a&gt;, Ph.D Student, USTC, saruka AT mail.ustc.edu.cn&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CSL &amp; SLR500 Dataset</title>
+      <link>https://example.com/datasets/2015_csl/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/datasets/2015_csl/</guid>
+      <description>&lt;h2&gt;Download (&lt;i&gt;&lt;font color=&#34;#FF0000&#34;&gt;*Important&lt;/font&gt; &lt;/i&gt;)&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	The CSL databases are released to universities and research institutes for research purpose only. To request the access right to the data resources, please follow the instructions below: 
+	&lt;/p&gt;&lt;ol&gt;
+		&lt;li&gt;Download the &lt;a href=&#34;./Release-Agreement-csl2015.pdf&#34; target=&#34;_blank&#34;&gt;&lt;font color=&#34;#FF0000&#34;&gt;CSL Dataset Release Agreement&lt;/font&gt;&lt;/a&gt;; 
+		&lt;/li&gt;&lt;li&gt;Read it carefully;
+		&lt;/li&gt;&lt;li&gt;Complete it appropriately. Note that the agreement should be signed by &lt;font color=&#34;#FF0000&#34;&gt;a full-time staff member&lt;/font&gt; (that is, the student is not acceptable).
+		&lt;/li&gt;&lt;li&gt;Please scan the signed agreement and send it to (ustc_vslrg At 126.com) and CC to Prof. Zhou (zhwg At ustc.edu.cn) and the full-time staff member who sign the agreement.
+		&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	We have two Chinese sign language datasets for isolated Sign Language Recognition and continuous Sign Language Recognition, respectively. Both datasets are collected with Kinect 2.0 by 50 signers. Each signer perfors 5 times for every word (sentence). The sign videos are recorded with 30&lt;i&gt;fps&lt;/i&gt;. The distance between the signers and Kinect is about 1.5 meters. Each instance in both datasets contains &lt;b&gt;RGB videos&lt;/b&gt;, &lt;b&gt;depth videos&lt;/b&gt;, and &lt;b&gt;3D joints information&lt;/b&gt; of the signer.
+&lt;br&gt;&lt;br&gt;
+	Since the dataset is recorded with Microsoft Kinect, there are three data modalities available:
+	&lt;/p&gt;&lt;ol&gt;
+		&lt;li&gt;RGB videos with resolution of 1280 x 720 pixels and frame rate of 30 fps.&lt;/li&gt;
+		&lt;li&gt;Depth videos with resolution of 512x 424 pixels and frame rate of 30 fps.&lt;/li&gt;
+		&lt;li&gt;Twenty-five skeleton joints locations of each frame.&lt;/li&gt;
+	&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Isolated SLR&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	The isolated SLR dataset contains 500 Chinese sign words. Each sign video is performed by 50 signers with 5 times. Hence, there are 250 instances for each sign word.
+&lt;/p&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	If you use this Chinese isolated SLR dataset in your research, please consider citing the following papers: 
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;Hezhen Hu, Weichao Zhao, Wengang Zhou, and Houqiang Li, &#34;SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding,&#34; &lt;i&gt;IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI)&lt;/i&gt;, 2023.&lt;/li&gt;		
+		&lt;li&gt;Weichao Zhao, Hezhen Hu, Wengang Zhou, Jiaxin Shi, and Houqiang Li, &#34;BEST: BERT Pre-Training for Sign Language Recognition with Coupling Tokenization,&#34; &lt;i&gt;Conference on Artificial Intelligence (AAAI)&lt;/i&gt;, 2023.&lt;/li&gt;
+		&lt;li&gt;Jie Huang, Wengang Zhou, Houqiang Li, and Weiping Li, &#34;Attention based 3D-CNNs for Large-Vocabulary Sign Language Recognition, &lt;i&gt;IEEE Trans. Circuits Syst. Video Technol. (TCSVT)&lt;/i&gt;, 2018.&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Continuous SLR&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	The corpus of continuous SLR dataset contains 100 Chinese sentence. There are 250 instances (50signers x 5times) for each sentence.
+&lt;/p&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	If you use this Chinese continuous SLR dataset in your research, please consider citing the following papers:
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;Junfu Pu, Wengang Zhou, and Houqiang Li, &#34;Iterative Alignment Network for Continuous Sign Language Recognition,&#34; &lt;i&gt;Conference on Computer Vision and Pattern Recognition (CVPR)&lt;/i&gt;, 2019.&lt;/li&gt;
+		&lt;li&gt;Hao Zhou, Wengang Zhou, and Houqiang Li, &#34;Dynamic Pseudo Label Decoding for Continuous Sign Language Recognition,&#34; &lt;i&gt;International Conference on Multimedia and Expo (ICME)&lt;/i&gt;, 2019.&lt;/li&gt;
+		&lt;li&gt;Jie Huang, Wengang Zhou, Qilin Zhang, Houqiang Li and Weiping Li, &#34;Video-based Sign Language Recognition without Temporal Segmentation,&#34; &lt;i&gt;AAAI Conference on Artificial Intelligence (AAAI)&lt;/i&gt;, 2018.&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	Besides, you can refer to the following papers for continuous SLR published by our group:
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;Hezhen Hu, Weichao Zhao, Wengang Zhou, and Houqiang Li, &#34;SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding,&#34; &lt;i&gt;IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI)&lt;/i&gt;, 2023.&lt;/li&gt;		
+		&lt;li&gt;Hezhen Hu, Junfu Pu, Wengang Zhou, and Houqiang Li, &#34;Collaborative Multilingual Continuous Sign Language Recognition: A Unified Framework,&#34;  &lt;i&gt;IEEE Trans. Multimedia (TMM)&lt;/i&gt;, 2022.&lt;/li&gt;
+		&lt;li&gt;Junfu Pu, Wengang Zhou, Hezhen Hu, and Houqiang Li, &#34;Boosting Continuous Sign Language Recognition via Cross Modality Augmentation,&#34; &lt;i&gt;ACM International Conference on Multimedia (ACM MM)&lt;/i&gt;, 2020.&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Contact&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	If you have any questions about the dataset and our papers, please feel free to contact us:
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;&lt;a href=&#34;http://staff.ustc.edu.cn/~lihq/English.html&#34; target=&#34;_blank&#34;&gt;Houqiang Li&lt;/a&gt;, Professor, USTC, lihq AT ustc.edu.cn&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&#34;http://staff.ustc.edu.cn/~zhwg&#34; target=&#34;_blank&#34;&gt;Wengang Zhou&lt;/a&gt;, Professor, USTC, zhwg AT ustc.edu.cn&lt;/li&gt;
+	    &lt;li&gt;&lt;a href=&#34;https://ustc-slr.github.io/&#34; target=&#34;_blank&#34;&gt;Weichao Zhao&lt;/a&gt;, Ph.D Student, USTC, saruka AT mail.ustc.edu.cn&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

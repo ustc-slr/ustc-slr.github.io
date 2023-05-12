@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ISLR | Visual Sign Language Research Group</title>
+    <link>https://example.com/tag/islr/</link>
+      <atom:link href="https://example.com/tag/islr/index.xml" rel="self" type="application/rss+xml" />
+    <description>ISLR</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
+      <title>ISLR</title>
+      <link>https://example.com/tag/islr/</link>
+    </image>
+    
+    <item>
+      <title>SignBERT&#43;: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding</title>
+      <link>https://example.com/publication/hu2023signbert/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2023signbert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BEST: BERT Pre-Training for Sign Language Recognition with Coupling Tokenization</title>
+      <link>https://example.com/publication/zhao2023best/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhao2023best/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SignBERT: Pre-Training of Hand-Model-Aware Representation for Sign Language Recognition</title>
+      <link>https://example.com/publication/hu2021signbert/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2021signbert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global-Local Enhancement Network for NMF-Aware Sign Language Recognition</title>
+      <link>https://example.com/publication/hu2021global/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2021global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hand-Model-Aware Sign Language Recognition</title>
+      <link>https://example.com/publication/hu2021hand/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2021hand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video-based sign language recognition without temporal segmentation</title>
+      <link>https://example.com/publication/huang2018video/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/huang2018video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention-Based 3D-CNNs for Large-Vocabulary Sign Language Recognition</title>
+      <link>https://example.com/publication/huang2018attention/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/huang2018attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sign Language Recognition with Multi-modal Features</title>
+      <link>https://example.com/publication/pu2016sign2/</link>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pu2016sign2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sign language recognition based on adaptive HMMs with data augmentation</title>
+      <link>https://example.com/publication/guo2016sign/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/guo2016sign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sign language recognition with long short-term memory</title>
+      <link>https://example.com/publication/liu2016sign/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/liu2016sign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chinese sign language recognition with adaptive HMM</title>
+      <link>https://example.com/publication/zhang2016chinese/</link>
+      <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhang2016chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sign Language Recognition Based on Trajectory Modeling with HMMs</title>
+      <link>https://example.com/publication/pu2016sign/</link>
+      <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pu2016sign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new system for Chinese sign language recognition</title>
+      <link>https://example.com/publication/zhang2015new/</link>
+      <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhang2015new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sign Language Recognition using Real-Sense</title>
+      <link>https://example.com/publication/huang2015sign2/</link>
+      <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/huang2015sign2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sign Language Recognition using 3D convolutional neural networks</title>
+      <link>https://example.com/publication/huang2015sign/</link>
+      <pubDate>Mon, 29 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/huang2015sign/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

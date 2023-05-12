@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hezhen Hu | Visual Sign Language Research Group</title>
+    <link>https://example.com/author/hezhen-hu/</link>
+      <atom:link href="https://example.com/author/hezhen-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hezhen Hu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
+      <title>Hezhen Hu</title>
+      <link>https://example.com/author/hezhen-hu/</link>
+    </image>
+    
+    <item>
+      <title>SignBERT&#43;: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding</title>
+      <link>https://example.com/publication/hu2023signbert/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2023signbert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prior-aware Cross Modality Augmentation Learning for Continuous Sign Language Recognition</title>
+      <link>https://example.com/publication/hu2023prior/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2023prior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BEST: BERT Pre-Training for Sign Language Recognition with Coupling Tokenization</title>
+      <link>https://example.com/publication/zhao2023best/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhao2023best/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative Multilingual Continuous Sign Language Recognition: A Unified Framework</title>
+      <link>https://example.com/publication/hu2022collaborative/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2022collaborative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hand-Object Interaction Image Generation</title>
+      <link>https://example.com/publication/hu2022handobject/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2022handobject/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SignBERT: Pre-Training of Hand-Model-Aware Representation for Sign Language Recognition</title>
+      <link>https://example.com/publication/hu2021signbert/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2021signbert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global-Local Enhancement Network for NMF-Aware Sign Language Recognition</title>
+      <link>https://example.com/publication/hu2021global/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2021global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Aware Gesture-to-Gesture Translation</title>
+      <link>https://example.com/publication/hu2021model/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2021model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hand-Model-Aware Sign Language Recognition</title>
+      <link>https://example.com/publication/hu2021hand/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2021hand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting continuous sign language recognition via cross modality augmentation</title>
+      <link>https://example.com/publication/pu2020boosting/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pu2020boosting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

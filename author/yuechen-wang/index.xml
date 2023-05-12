@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuechen Wang | Visual Sign Language Research Group</title>
+    <link>https://example.com/author/yuechen-wang/</link>
+      <atom:link href="https://example.com/author/yuechen-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuechen Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuechen Wang</title>
+      <link>https://example.com/author/yuechen-wang/</link>
+    </image>
+    
+    <item>
+      <title>SignBERT: Pre-Training of Hand-Model-Aware Representation for Sign Language Recognition</title>
+      <link>https://example.com/publication/hu2021signbert/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2021signbert/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weiping Li | Visual Sign Language Research Group</title>
+    <link>https://example.com/author/weiping-li/</link>
+      <atom:link href="https://example.com/author/weiping-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weiping Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
+      <title>Weiping Li</title>
+      <link>https://example.com/author/weiping-li/</link>
+    </image>
+    
+    <item>
+      <title>Video-based sign language recognition without temporal segmentation</title>
+      <link>https://example.com/publication/huang2018video/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/huang2018video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention-Based 3D-CNNs for Large-Vocabulary Sign Language Recognition</title>
+      <link>https://example.com/publication/huang2018attention/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/huang2018attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sign Language Recognition using Real-Sense</title>
+      <link>https://example.com/publication/huang2015sign2/</link>
+      <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/huang2015sign2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sign Language Recognition using 3D convolutional neural networks</title>
+      <link>https://example.com/publication/huang2015sign/</link>
+      <pubDate>Mon, 29 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/huang2015sign/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

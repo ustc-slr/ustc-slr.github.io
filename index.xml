@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Sign Language Research Group</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visual Sign Language Research Group</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
+      <title>Visual Sign Language Research Group</title>
+      <link>https://example.com/</link>
+    </image>
+    
+    <item>
+      <title>SignBERT&#43;: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding</title>
+      <link>https://example.com/highlight_news/23-05-02-signbert&#43;/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/highlight_news/23-05-02-signbert&#43;/</guid>
+      <description>&lt;p&gt;&lt;em&gt;IEEE TPAMI 2023&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Hand gesture serves as a crucial role during the expression of sign language. Current deep learning based methods for sign language understanding (SLU) are prone to over-fitting due to insufficient sign data resource and suffer limited interpretability.
+In this paper, we propose the &lt;em&gt;first&lt;/em&gt; self-supervised pre-trainable SignBERT+ framework with model-aware hand prior incorporated. In our framework, the hand pose is regarded as a visual token, which is derived from an off-the-shelf detector. Each visual token is embedded
+with gesture state and spatial-temporal position encoding. To take full advantage of current sign data resource, we first perform self-supervised learning to model its statistics. To this end, we design multi-level masked modeling strategies (joint, frame and clip) to
+mimic common failure detection cases. Jointly with these masked modeling strategies, we incorporate model-aware hand prior to better capture hierarchical context over the sequence. After the pre-training, we carefully design simple yet effective prediction heads for downstream tasks.
+To validate the effectiveness of our framework, we perform extensive experiments on three main SLU tasks,
+involving isolated and continuous sign language recognition (SLR), and sign language translation (SLT). Experimental results
+demonstrate the effectiveness of our method, achieving new state-of-the-art performance with a notable gain.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Please refer to this &lt;a href=&#34;https://signbert-zoo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project page&lt;/a&gt; for more details.
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>SignBERT&#43;: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding</title>
+      <link>https://example.com/publication/hu2023signbert/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2023signbert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prior-aware Cross Modality Augmentation Learning for Continuous Sign Language Recognition</title>
+      <link>https://example.com/publication/hu2023prior/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2023prior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BEST: BERT Pre-Training for Sign Language Recognition with Coupling Tokenization</title>
+      <link>https://example.com/highlight_news/23-02-01-best/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/highlight_news/23-02-01-best/</guid>
+      <description>&lt;p&gt;&lt;em&gt;AAAI 2023, Oral&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In this work, we are dedicated to leveraging the BERT pretraining success and modeling the domain-specific statistics
+to fertilize the sign language recognition (SLR) model. Considering the dominance of hand and body in sign language
+expression, we organize them as pose triplet units and feed
+them into the Transformer backbone in a frame-wise manner. Pre-training is performed via reconstructing the masked
+triplet unit from the corrupted input sequence, which learns
+the hierarchical correlation context cues among internal and
+external triplet units. Notably, different from the highly semantic word token in BERT, the pose unit is a low-level signal originally located in continuous space, which prevents the
+direct adoption of the BERT cross-entropy objective. To this
+end, we bridge this semantic gap via coupling tokenization of
+the triplet unit. It adaptively extracts the discrete pseudo label from the pose triplet unit, which represents the semantic
+gesture/body state. After pre-training, we fine-tune the pretrained encoder on the downstream SLR task, jointly with
+the newly added task-specific layer. Extensive experiments
+are conducted to validate the effectiveness of our proposed
+method, achieving new state-of-the-art performance on all
+four benchmarks with a notable gain.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Please refer to this &lt;a href=&#34;https://ustc-slr.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project page&lt;/a&gt; for more details.
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>BEST: BERT Pre-Training for Sign Language Recognition with Coupling Tokenization</title>
+      <link>https://example.com/publication/zhao2023best/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhao2023best/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative Multilingual Continuous Sign Language Recognition: A Unified Framework</title>
+      <link>https://example.com/highlight_news/23-05-02-coslr/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/highlight_news/23-05-02-coslr/</guid>
+      <description>&lt;p&gt;&lt;em&gt;IEEE TMM 2022&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Current continuous sign language recognition systems generally target on a single language. When it comes to the multilingual problem, existing solutions often build separate models based on the same network and then train them with their corresponding sign language corpora. Observing that different sign languages share some low-level visual patterns, we argue that it is beneficial to optimize the recognition model in a collaborative way. With this motivation, we propose the first unified framework for multilingual continuous sign language recognition. Our framework consists of a shared visual encoder for visual information encoding, multiple language-dependent sequential modules for long-range temporal dependency learning aimed at different languages, and a universal sequential module to learn the commonality of all languages. An additional language embedding is introduced to distinguish different languages within the shared temporal encoders. Further, we present a max-probability decoding method to obtain the alignment between sign videos and sign words for visual encoder refinement. We evaluate our approach on three continuous sign language recognition benchmarks, i.e., RWTH-PHOENIX-Weather, CSL and GSL-SD. The experimental results reveal that our method outperforms the individually trained recognition models. Our method also demonstrates better performance compared with state-of-the-art algorithms.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Please refer to this &lt;a href=&#34;https://ustc-slr.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project page&lt;/a&gt; for more details.
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Collaborative Multilingual Continuous Sign Language Recognition: A Unified Framework</title>
+      <link>https://example.com/publication/hu2022collaborative/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2022collaborative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hand-Object Interaction Image Generation</title>
+      <link>https://example.com/publication/hu2022handobject/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2022handobject/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highlights</title>
+      <link>https://example.com/highlights/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/highlights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SignBERT: Pre-Training of Hand-Model-Aware Representation for Sign Language Recognition</title>
+      <link>https://example.com/publication/hu2021signbert/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2021signbert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global-Local Enhancement Network for NMF-Aware Sign Language Recognition</title>
+      <link>https://example.com/publication/hu2021global/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2021global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Sign Language Translation with Monolingual Data by Sign Back-Translation</title>
+      <link>https://example.com/highlight_news/21-02-01-signbt/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/highlight_news/21-02-01-signbt/</guid>
+      <description>&lt;p&gt;&lt;em&gt;CVPR 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Despite existing pioneering works on sign language translation (SLT), there is a non-trivial obstacle, i.e., the limited quantity of parallel sign-text data. To tackle this
+parallel data bottleneck, we propose a sign back-translation (SignBT) approach, which incorporates massive spoken
+language texts into SLT training. With a text-to-gloss translation model, we first back-translate the monolingual text to
+its gloss sequence. Then, the paired sign sequence is generated by splicing pieces from an estimated gloss-to-sign bank at the feature level. Finally, the synthetic parallel data
+serves as a strong supplement for the end-to-end training of the encoder-decoder SLT framework. To promote the SLT research, we further contribute CSLDaily, a large-scale continuous SLT dataset. It provides
+both spoken language translations and gloss-level annotations. The topic revolves around people&amp;rsquo;s daily lives (e.g.,
+travel, shopping, medical care), the most likely SLT application scenario. Extensive experimental results and analysis
+of SLT methods are reported on CSL-Daily. With the proposed sign back-translation method, we obtain a substantial
+improvement over previous state-of-the-art SLT methods.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Please refer to this &lt;a href=&#34;https://ustc-slr.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project page&lt;/a&gt; for more details.
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Conditional Sentence Generation and Cross-Modal Reranking for Sign Language Translation</title>
+      <link>https://example.com/publication/zhao2021conditional/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhao2021conditional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation</title>
+      <link>https://example.com/publication/zhou2021spatial/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhou2021spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving sign language translation with monolingual data by sign back-translation</title>
+      <link>https://example.com/publication/zhou2021improving/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhou2021improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Aware Gesture-to-Gesture Translation</title>
+      <link>https://example.com/publication/hu2021model/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2021model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSL-Daily Dataset</title>
+      <link>https://example.com/datasets/2021_csl_daily/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/datasets/2021_csl_daily/</guid>
+      <description>&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+    CSL-Daily is a large-scale continuous SLT dataset. 
+    It provides both spoken language translations and gloss-level annotations. 
+    The topic revolves around people&#39;s daily lives (e.g., travel, shopping, medical care), the most likely SLT application scenario.
+    &lt;!-- We have two Chinese sign language datasets for isolated Sign Language Recognition and continuous Sign Language Recognition, respectively. Both datasets are collected with Kinect 2.0 by 50 signers. Each signer perfors 5 times for every word (sentence). The sign videos are recorded with 30&lt;i&gt;fps&lt;/i&gt;. The distance between the signers and Kinect is about 1.5 meters. Each instance in both datasets contains &lt;b&gt;RGB videos&lt;/b&gt;, &lt;b&gt;depth videos&lt;/b&gt;, and &lt;b&gt;3D joints information&lt;/b&gt; of the signer. --&gt;
+&lt;/p&gt; 
+&lt;h2&gt;Download &lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	The CSL-Daily database is released to universities and research institutes for research purpose only. To request the access right to the data resources, please follow the instructions below: 
+	&lt;/p&gt;&lt;ol&gt;
+		&lt;li&gt;Download the &lt;a href=&#34;./Release-Agreement-CSL-Daily.pdf&#34; target=&#34;_blank&#34;&gt;&lt;font color=&#34;#FF0000&#34;&gt;CSL-Daily Dataset Release Agreement&lt;/font&gt;&lt;/a&gt;; 
+		&lt;/li&gt;&lt;li&gt;&lt;font color=&#34;#FF0000&#34;&gt;Read all items and conditions carefully&lt;/font&gt;;
+		&lt;/li&gt;&lt;li&gt;Complete it appropriately. Note that the agreement should be signed by &lt;font color=&#34;#FF0000&#34;&gt;a full-time staff member&lt;/font&gt; (that is, the student is not acceptable).
+		&lt;/li&gt;&lt;li&gt;Please scan the signed agreement, send it to (ustc_vslrg At 126.com) and CC to Prof. Zhou (zhwg At ustc.edu.cn). If you are a student, please also CC to the full-time staff member who sign the agreement.
+		&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Reference&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	Please cite the following papers if you use CSL-Daily for your research 
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;Hao Zhou, Wengang Zhou, Weizhen Qi, Junfu Pu, and Houqiang Li, &#34;Improving Sign Language Translation with Monolingual Data by Sign Back-Translation,&#34; &lt;i&gt;IEEE/CVF International Conference on Computer Vision and Pattern Recognition (CVPR)&lt;/i&gt;, 2021.&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	Besides, you can refer to the following papers for continuous SLR published by our group:
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;Hezhen Hu, Weichao Zhao, Wengang Zhou, and Houqiang Li, &#34;SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding,&#34; &lt;i&gt;IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI)&lt;/i&gt;, 2023.&lt;/li&gt;		
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Contact&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	If you have any questions about the dataset and our papers, please feel free to contact us:
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;&lt;a href=&#34;http://staff.ustc.edu.cn/~zhwg&#34; target=&#34;_blank&#34;&gt;Wengang Zhou&lt;/a&gt;, Professor, USTC, zhwg AT ustc.edu.cn&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;http://staff.ustc.edu.cn/~lihq/English.html&#34; target=&#34;_blank&#34;&gt;Houqiang Li&lt;/a&gt;, Professor, USTC, lihq AT ustc.edu.cn&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;https://ustc-slr.github.io/&#34; target=&#34;_blank&#34;&gt;Weichao Zhao&lt;/a&gt;, Ph.D Student, USTC, saruka AT mail.ustc.edu.cn&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;br&gt;</description>
+    </item>
+    
+    <item>
+      <title>Boosting Continuous Sign Language Recognition via Cross Modality Augmentation</title>
+      <link>https://example.com/highlight_news/20-11-10-cma/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/highlight_news/20-11-10-cma/</guid>
+      <description>&lt;p&gt;&lt;em&gt;ACM MM 2020&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Continuous sign language recognition (SLR) deals with unaligned video-text pair and uses the word error rate (WER), i.e., edit distance, as the main evaluation metric. Since it is not differentiable, we usually instead optimize the learning model with the connectionist temporal classification (CTC) objective loss, which maximizes the posterior probability over the sequential alignment. Due to the optimization gap, the predicted sentence with the highest decoding probability may not be the best choice under the WER metric. To tackle this issue, we propose a novel architecture with cross modality augmentation. Specifically, we first augment cross-modal data by simulating the calculation procedure of WER, i.e., substitution, deletion and insertion on both text label and its corresponding video. With these real and generated pseudo video-text pairs, we propose multiple loss terms to minimize the cross modality distance between the video and ground truth label, and make the network distinguish the difference between real and pseudo modalities. The proposed framework can be easily extended to other existing CTC based continuous SLR architectures. Extensive experiments on two continuous SLR benchmarks, i.e., RWTH-PHOENIX-Weather and CSL, validate the effectiveness of our proposed method.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Please refer to this &lt;a href=&#34;https://ustc-slr.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project page&lt;/a&gt; for more details.
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hand-Model-Aware Sign Language Recognition</title>
+      <link>https://example.com/publication/hu2021hand/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hu2021hand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Boundary Detection With Reinforcement Learning for Continuous Sign Language Recognition</title>
+      <link>https://example.com/publication/wei2020semantic/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wei2020semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting continuous sign language recognition via cross modality augmentation</title>
+      <link>https://example.com/publication/pu2020boosting/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pu2020boosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NMFs-CSL Dataset</title>
+      <link>https://example.com/datasets/2020_nmfs_csl/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/datasets/2020_nmfs_csl/</guid>
+      <description>&lt;center&gt;&lt;img src=&#34;./Intro.jpg&#34; border=&#34;0&#34; width=&#34;85%&#34;&gt;&lt;/center&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	This &lt;b&gt;NMFs-CSL&lt;/b&gt; dataset explicitly emphasizes the importance of the non-manual features in sign language. It contains 1,067 Chinese sign words (610 confusing words (0~609), 457 normal words (610~1066)). It is collected with portable cameras on the mobile phones. The sign videos are recorded with 30&lt;i&gt;fps&lt;/i&gt;. Each instance in the dataset contains RGB videos. 
+&lt;/p&gt;
+&lt;h2&gt;Download (&lt;i&gt;&lt;font color=&#34;#FF0000&#34;&gt;*Important&lt;/font&gt; &lt;/i&gt;)&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+This &lt;b&gt;NMFs-CSL&lt;/b&gt; dataset contains 1,067 Chinese sign words. It is released to universities and research institutes for research purpose only. To request the access right to the data resources, please follow the instructions below: 
+	&lt;/p&gt;&lt;ol&gt;
+		&lt;li&gt;Download the &lt;a href=&#34;./Release%20Agreement-NMFs-CSL.pdf&#34; target=&#34;_blank&#34;&gt;&lt;font color=&#34;#FF0000&#34;&gt;NMFs-CSL Dataset Release Agreement&lt;/font&gt;&lt;/a&gt;; 
+		&lt;/li&gt;&lt;li&gt;Read it carefully;
+		&lt;/li&gt;&lt;li&gt;Complete it appropriately. Note that the agreement should be signed by &lt;font color=&#34;#FF0000&#34;&gt;a full-time staff member&lt;/font&gt; (that is, the student is not acceptable).
+		&lt;/li&gt;&lt;li&gt;Please scan the signed agreement and send it to (ustc_vslrg At 126.com) and CC to Prof. Zhou (zhwg At ustc.edu.cn) and the full-time staff member who sign the agreement.
+		&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Notation&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	If you use this NMFs-CSL dataset in your research, please cite the following papers:
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;Hezhen Hu, Wengang Zhou, Junfu Pu, and Houqiang Li, &#34;Global-Local Enhancement Network for NMF-Aware Sign Language Recognition,&#34; &lt;i&gt;ACM Trans. Multimedia Comput. Commun. Appl. (TOMM)&lt;/i&gt;, 2021.&lt;/li&gt;
+		&lt;li&gt;Hezhen Hu, Wengang Zhou, Junfu Pu, and Houqiang Li, &#34;Hand-Model-Aware Sign Language Recognition,&#34; &lt;i&gt;AAAI Conference on Artificial Intelligence (AAAI)&lt;/i&gt;, 2021.&lt;/li&gt;
+		&lt;li&gt;Hezhen Hu, Weichao Zhao, Wengang Zhou, and Houqiang Li, &#34;SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding,&#34; &lt;i&gt;IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI)&lt;/i&gt;, 2023.&lt;/li&gt;
+		&lt;li&gt;Hezhen Hu, Weichao Zhao, Wengang Zhou, Yuechen Wang, Houqiang Li, &#34;SignBERT: Pre-Training of Hand-Model-Aware Representation for Sign Language Recognition,&#34; &lt;i&gt;International Conference on Computer Vision (ICCV)&lt;/i&gt;, 2021.&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Contact&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	If you have any questions about the dataset and our papers, please feel free to contact us:
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;&lt;a href=&#34;http://staff.ustc.edu.cn/~lihq/English.html&#34; target=&#34;_blank&#34;&gt;Houqiang Li&lt;/a&gt;, Professor, USTC, lihq AT ustc.edu.cn&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&#34;http://staff.ustc.edu.cn/~zhwg&#34; target=&#34;_blank&#34;&gt;Wengang Zhou&lt;/a&gt;, Professor, USTC, zhwg AT ustc.edu.cn&lt;/li&gt;
+	    &lt;li&gt;&lt;a href=&#34;https://ustc-slr.github.io/&#34; target=&#34;_blank&#34;&gt;Weichao Zhao&lt;/a&gt;, Ph.D Student, USTC, saruka AT mail.ustc.edu.cn&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Continuous sign language recognition via reinforcement learning</title>
+      <link>https://example.com/publication/zhang2019continuous/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhang2019continuous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep grammatical multi-classifier for continuous sign language recognition</title>
+      <link>https://example.com/publication/wei2019deep/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wei2019deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic pseudo label decoding for continuous sign language recognition</title>
+      <link>https://example.com/publication/zhou2019dynamic/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhou2019dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial-temporal multi-cue network for continuous sign language recognition</title>
+      <link>https://example.com/publication/zhou2020spatial/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhou2020spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iterative alignment network for continuous sign language recognition</title>
+      <link>https://example.com/publication/pu2019iterative/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pu2019iterative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical LSTM for sign language translation</title>
+      <link>https://example.com/publication/guo2018hierarchical/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/guo2018hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video-based sign language recognition without temporal segmentation</title>
+      <link>https://example.com/publication/huang2018video/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/huang2018video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connectionist Temporal Fusion for Sign Language Translation</title>
+      <link>https://example.com/publication/wang2018connectionist/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wang2018connectionist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention-Based 3D-CNNs for Large-Vocabulary Sign Language Recognition</title>
+      <link>https://example.com/publication/huang2018attention/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/huang2018attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dilated convolutional network with iterative optimization for continuous sign language recognition</title>
+      <link>https://example.com/publication/pu2018dilated/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pu2018dilated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sign Language Recognition with Multi-modal Features</title>
+      <link>https://example.com/publication/pu2016sign2/</link>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pu2016sign2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sign language recognition based on adaptive HMMs with data augmentation</title>
+      <link>https://example.com/publication/guo2016sign/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/guo2016sign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sign language recognition with long short-term memory</title>
+      <link>https://example.com/publication/liu2016sign/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/liu2016sign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chinese sign language recognition with adaptive HMM</title>
+      <link>https://example.com/publication/zhang2016chinese/</link>
+      <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhang2016chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sign Language Recognition Based on Trajectory Modeling with HMMs</title>
+      <link>https://example.com/publication/pu2016sign/</link>
+      <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pu2016sign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new system for Chinese sign language recognition</title>
+      <link>https://example.com/publication/zhang2015new/</link>
+      <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhang2015new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sign Language Recognition using Real-Sense</title>
+      <link>https://example.com/publication/huang2015sign2/</link>
+      <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/huang2015sign2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sign Language Recognition using 3D convolutional neural networks</title>
+      <link>https://example.com/publication/huang2015sign/</link>
+      <pubDate>Mon, 29 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/huang2015sign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSL &amp; SLR500 Dataset</title>
+      <link>https://example.com/datasets/2015_csl/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/datasets/2015_csl/</guid>
+      <description>&lt;h2&gt;Download (&lt;i&gt;&lt;font color=&#34;#FF0000&#34;&gt;*Important&lt;/font&gt; &lt;/i&gt;)&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	The CSL databases are released to universities and research institutes for research purpose only. To request the access right to the data resources, please follow the instructions below: 
+	&lt;/p&gt;&lt;ol&gt;
+		&lt;li&gt;Download the &lt;a href=&#34;./Release-Agreement-csl2015.pdf&#34; target=&#34;_blank&#34;&gt;&lt;font color=&#34;#FF0000&#34;&gt;CSL Dataset Release Agreement&lt;/font&gt;&lt;/a&gt;; 
+		&lt;/li&gt;&lt;li&gt;Read it carefully;
+		&lt;/li&gt;&lt;li&gt;Complete it appropriately. Note that the agreement should be signed by &lt;font color=&#34;#FF0000&#34;&gt;a full-time staff member&lt;/font&gt; (that is, the student is not acceptable).
+		&lt;/li&gt;&lt;li&gt;Please scan the signed agreement and send it to (ustc_vslrg At 126.com) and CC to Prof. Zhou (zhwg At ustc.edu.cn) and the full-time staff member who sign the agreement.
+		&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	We have two Chinese sign language datasets for isolated Sign Language Recognition and continuous Sign Language Recognition, respectively. Both datasets are collected with Kinect 2.0 by 50 signers. Each signer perfors 5 times for every word (sentence). The sign videos are recorded with 30&lt;i&gt;fps&lt;/i&gt;. The distance between the signers and Kinect is about 1.5 meters. Each instance in both datasets contains &lt;b&gt;RGB videos&lt;/b&gt;, &lt;b&gt;depth videos&lt;/b&gt;, and &lt;b&gt;3D joints information&lt;/b&gt; of the signer.
+&lt;br&gt;&lt;br&gt;
+	Since the dataset is recorded with Microsoft Kinect, there are three data modalities available:
+	&lt;/p&gt;&lt;ol&gt;
+		&lt;li&gt;RGB videos with resolution of 1280 x 720 pixels and frame rate of 30 fps.&lt;/li&gt;
+		&lt;li&gt;Depth videos with resolution of 512x 424 pixels and frame rate of 30 fps.&lt;/li&gt;
+		&lt;li&gt;Twenty-five skeleton joints locations of each frame.&lt;/li&gt;
+	&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Isolated SLR&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	The isolated SLR dataset contains 500 Chinese sign words. Each sign video is performed by 50 signers with 5 times. Hence, there are 250 instances for each sign word.
+&lt;/p&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	If you use this Chinese isolated SLR dataset in your research, please consider citing the following papers: 
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;Hezhen Hu, Weichao Zhao, Wengang Zhou, and Houqiang Li, &#34;SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding,&#34; &lt;i&gt;IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI)&lt;/i&gt;, 2023.&lt;/li&gt;		
+		&lt;li&gt;Weichao Zhao, Hezhen Hu, Wengang Zhou, Jiaxin Shi, and Houqiang Li, &#34;BEST: BERT Pre-Training for Sign Language Recognition with Coupling Tokenization,&#34; &lt;i&gt;Conference on Artificial Intelligence (AAAI)&lt;/i&gt;, 2023.&lt;/li&gt;
+		&lt;li&gt;Jie Huang, Wengang Zhou, Houqiang Li, and Weiping Li, &#34;Attention based 3D-CNNs for Large-Vocabulary Sign Language Recognition, &lt;i&gt;IEEE Trans. Circuits Syst. Video Technol. (TCSVT)&lt;/i&gt;, 2018.&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Continuous SLR&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	The corpus of continuous SLR dataset contains 100 Chinese sentence. There are 250 instances (50signers x 5times) for each sentence.
+&lt;/p&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	If you use this Chinese continuous SLR dataset in your research, please consider citing the following papers:
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;Junfu Pu, Wengang Zhou, and Houqiang Li, &#34;Iterative Alignment Network for Continuous Sign Language Recognition,&#34; &lt;i&gt;Conference on Computer Vision and Pattern Recognition (CVPR)&lt;/i&gt;, 2019.&lt;/li&gt;
+		&lt;li&gt;Hao Zhou, Wengang Zhou, and Houqiang Li, &#34;Dynamic Pseudo Label Decoding for Continuous Sign Language Recognition,&#34; &lt;i&gt;International Conference on Multimedia and Expo (ICME)&lt;/i&gt;, 2019.&lt;/li&gt;
+		&lt;li&gt;Jie Huang, Wengang Zhou, Qilin Zhang, Houqiang Li and Weiping Li, &#34;Video-based Sign Language Recognition without Temporal Segmentation,&#34; &lt;i&gt;AAAI Conference on Artificial Intelligence (AAAI)&lt;/i&gt;, 2018.&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	Besides, you can refer to the following papers for continuous SLR published by our group:
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;Hezhen Hu, Weichao Zhao, Wengang Zhou, and Houqiang Li, &#34;SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding,&#34; &lt;i&gt;IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI)&lt;/i&gt;, 2023.&lt;/li&gt;		
+		&lt;li&gt;Hezhen Hu, Junfu Pu, Wengang Zhou, and Houqiang Li, &#34;Collaborative Multilingual Continuous Sign Language Recognition: A Unified Framework,&#34;  &lt;i&gt;IEEE Trans. Multimedia (TMM)&lt;/i&gt;, 2022.&lt;/li&gt;
+		&lt;li&gt;Junfu Pu, Wengang Zhou, Hezhen Hu, and Houqiang Li, &#34;Boosting Continuous Sign Language Recognition via Cross Modality Augmentation,&#34; &lt;i&gt;ACM International Conference on Multimedia (ACM MM)&lt;/i&gt;, 2020.&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Contact&lt;/h2&gt;
+&lt;p class=&#34;textBlock&#34;&gt;
+	If you have any questions about the dataset and our papers, please feel free to contact us:
+	&lt;/p&gt;&lt;ul&gt;
+		&lt;li&gt;&lt;a href=&#34;http://staff.ustc.edu.cn/~lihq/English.html&#34; target=&#34;_blank&#34;&gt;Houqiang Li&lt;/a&gt;, Professor, USTC, lihq AT ustc.edu.cn&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&#34;http://staff.ustc.edu.cn/~zhwg&#34; target=&#34;_blank&#34;&gt;Wengang Zhou&lt;/a&gt;, Professor, USTC, zhwg AT ustc.edu.cn&lt;/li&gt;
+	    &lt;li&gt;&lt;a href=&#34;https://ustc-slr.github.io/&#34; target=&#34;_blank&#34;&gt;Weichao Zhao&lt;/a&gt;, Ph.D Student, USTC, saruka AT mail.ustc.edu.cn&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Threshold-based HMM-DTW Approach for Continuous Sign Language Recognition</title>
+      <link>https://example.com/publication/zhang2014threshold/</link>
+      <pubDate>Thu, 10 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhang2014threshold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

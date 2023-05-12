@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | Visual Sign Language Research Group</title>
+    <link>https://example.com/highlight_news/</link>
+      <atom:link href="https://example.com/highlight_news/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
+      <title>Latest News</title>
+      <link>https://example.com/highlight_news/</link>
+    </image>
+    
+    <item>
+      <title>SignBERT&#43;: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding</title>
+      <link>https://example.com/highlight_news/23-05-02-signbert&#43;/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/highlight_news/23-05-02-signbert&#43;/</guid>
+      <description>&lt;p&gt;&lt;em&gt;IEEE TPAMI 2023&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Hand gesture serves as a crucial role during the expression of sign language. Current deep learning based methods for sign language understanding (SLU) are prone to over-fitting due to insufficient sign data resource and suffer limited interpretability.
+In this paper, we propose the &lt;em&gt;first&lt;/em&gt; self-supervised pre-trainable SignBERT+ framework with model-aware hand prior incorporated. In our framework, the hand pose is regarded as a visual token, which is derived from an off-the-shelf detector. Each visual token is embedded
+with gesture state and spatial-temporal position encoding. To take full advantage of current sign data resource, we first perform self-supervised learning to model its statistics. To this end, we design multi-level masked modeling strategies (joint, frame and clip) to
+mimic common failure detection cases. Jointly with these masked modeling strategies, we incorporate model-aware hand prior to better capture hierarchical context over the sequence. After the pre-training, we carefully design simple yet effective prediction heads for downstream tasks.
+To validate the effectiveness of our framework, we perform extensive experiments on three main SLU tasks,
+involving isolated and continuous sign language recognition (SLR), and sign language translation (SLT). Experimental results
+demonstrate the effectiveness of our method, achieving new state-of-the-art performance with a notable gain.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Please refer to this &lt;a href=&#34;https://signbert-zoo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project page&lt;/a&gt; for more details.
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>BEST: BERT Pre-Training for Sign Language Recognition with Coupling Tokenization</title>
+      <link>https://example.com/highlight_news/23-02-01-best/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/highlight_news/23-02-01-best/</guid>
+      <description>&lt;p&gt;&lt;em&gt;AAAI 2023, Oral&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In this work, we are dedicated to leveraging the BERT pretraining success and modeling the domain-specific statistics
+to fertilize the sign language recognition (SLR) model. Considering the dominance of hand and body in sign language
+expression, we organize them as pose triplet units and feed
+them into the Transformer backbone in a frame-wise manner. Pre-training is performed via reconstructing the masked
+triplet unit from the corrupted input sequence, which learns
+the hierarchical correlation context cues among internal and
+external triplet units. Notably, different from the highly semantic word token in BERT, the pose unit is a low-level signal originally located in continuous space, which prevents the
+direct adoption of the BERT cross-entropy objective. To this
+end, we bridge this semantic gap via coupling tokenization of
+the triplet unit. It adaptively extracts the discrete pseudo label from the pose triplet unit, which represents the semantic
+gesture/body state. After pre-training, we fine-tune the pretrained encoder on the downstream SLR task, jointly with
+the newly added task-specific layer. Extensive experiments
+are conducted to validate the effectiveness of our proposed
+method, achieving new state-of-the-art performance on all
+four benchmarks with a notable gain.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Please refer to this &lt;a href=&#34;https://ustc-slr.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project page&lt;/a&gt; for more details.
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Collaborative Multilingual Continuous Sign Language Recognition: A Unified Framework</title>
+      <link>https://example.com/highlight_news/23-05-02-coslr/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/highlight_news/23-05-02-coslr/</guid>
+      <description>&lt;p&gt;&lt;em&gt;IEEE TMM 2022&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Current continuous sign language recognition systems generally target on a single language. When it comes to the multilingual problem, existing solutions often build separate models based on the same network and then train them with their corresponding sign language corpora. Observing that different sign languages share some low-level visual patterns, we argue that it is beneficial to optimize the recognition model in a collaborative way. With this motivation, we propose the first unified framework for multilingual continuous sign language recognition. Our framework consists of a shared visual encoder for visual information encoding, multiple language-dependent sequential modules for long-range temporal dependency learning aimed at different languages, and a universal sequential module to learn the commonality of all languages. An additional language embedding is introduced to distinguish different languages within the shared temporal encoders. Further, we present a max-probability decoding method to obtain the alignment between sign videos and sign words for visual encoder refinement. We evaluate our approach on three continuous sign language recognition benchmarks, i.e., RWTH-PHOENIX-Weather, CSL and GSL-SD. The experimental results reveal that our method outperforms the individually trained recognition models. Our method also demonstrates better performance compared with state-of-the-art algorithms.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Please refer to this &lt;a href=&#34;https://ustc-slr.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project page&lt;/a&gt; for more details.
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Improving Sign Language Translation with Monolingual Data by Sign Back-Translation</title>
+      <link>https://example.com/highlight_news/21-02-01-signbt/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/highlight_news/21-02-01-signbt/</guid>
+      <description>&lt;p&gt;&lt;em&gt;CVPR 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Despite existing pioneering works on sign language translation (SLT), there is a non-trivial obstacle, i.e., the limited quantity of parallel sign-text data. To tackle this
+parallel data bottleneck, we propose a sign back-translation (SignBT) approach, which incorporates massive spoken
+language texts into SLT training. With a text-to-gloss translation model, we first back-translate the monolingual text to
+its gloss sequence. Then, the paired sign sequence is generated by splicing pieces from an estimated gloss-to-sign bank at the feature level. Finally, the synthetic parallel data
+serves as a strong supplement for the end-to-end training of the encoder-decoder SLT framework. To promote the SLT research, we further contribute CSLDaily, a large-scale continuous SLT dataset. It provides
+both spoken language translations and gloss-level annotations. The topic revolves around people&amp;rsquo;s daily lives (e.g.,
+travel, shopping, medical care), the most likely SLT application scenario. Extensive experimental results and analysis
+of SLT methods are reported on CSL-Daily. With the proposed sign back-translation method, we obtain a substantial
+improvement over previous state-of-the-art SLT methods.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Please refer to this &lt;a href=&#34;https://ustc-slr.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project page&lt;/a&gt; for more details.
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Boosting Continuous Sign Language Recognition via Cross Modality Augmentation</title>
+      <link>https://example.com/highlight_news/20-11-10-cma/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/highlight_news/20-11-10-cma/</guid>
+      <description>&lt;p&gt;&lt;em&gt;ACM MM 2020&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Continuous sign language recognition (SLR) deals with unaligned video-text pair and uses the word error rate (WER), i.e., edit distance, as the main evaluation metric. Since it is not differentiable, we usually instead optimize the learning model with the connectionist temporal classification (CTC) objective loss, which maximizes the posterior probability over the sequential alignment. Due to the optimization gap, the predicted sentence with the highest decoding probability may not be the best choice under the WER metric. To tackle this issue, we propose a novel architecture with cross modality augmentation. Specifically, we first augment cross-modal data by simulating the calculation procedure of WER, i.e., substitution, deletion and insertion on both text label and its corresponding video. With these real and generated pseudo video-text pairs, we propose multiple loss terms to minimize the cross modality distance between the video and ground truth label, and make the network distinguish the difference between real and pseudo modalities. The proposed framework can be easily extended to other existing CTC based continuous SLR architectures. Extensive experiments on two continuous SLR benchmarks, i.e., RWTH-PHOENIX-Weather and CSL, validate the effectiveness of our proposed method.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Please refer to this &lt;a href=&#34;https://ustc-slr.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project page&lt;/a&gt; for more details.
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

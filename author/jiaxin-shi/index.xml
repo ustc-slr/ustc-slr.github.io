@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiaxin Shi | Visual Sign Language Research Group</title>
+    <link>https://example.com/author/jiaxin-shi/</link>
+      <atom:link href="https://example.com/author/jiaxin-shi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiaxin Shi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
+      <title>Jiaxin Shi</title>
+      <link>https://example.com/author/jiaxin-shi/</link>
+    </image>
+    
+    <item>
+      <title>BEST: BERT Pre-Training for Sign Language Recognition with Coupling Tokenization</title>
+      <link>https://example.com/publication/zhao2023best/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhao2023best/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
