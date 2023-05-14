@@ -4,6 +4,10 @@
   
   
   <url>
+    <loc>https://example.com/author/houqiang-li/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/author/wengang-zhou/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/publication-type/2/</loc><lastmod>2023-04-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/authors/</loc><lastmod>2023-04-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -172,8 +176,4 @@
   <url>
     <loc>https://example.com/people/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/houqiang-li/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/author/wengang-zhou/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq></url></urlset>
