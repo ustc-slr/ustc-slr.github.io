@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dan Guo | Visual Sign Language Research Group</title>
-    <link>https://example.com/author/dan-guo/</link>
-      <atom:link href="https://example.com/author/dan-guo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ustc-slr.github.io/author/dan-guo/</link>
+      <atom:link href="https://ustc-slr.github.io/author/dan-guo/index.xml" rel="self" type="application/rss+xml" />
     <description>Dan Guo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ustc-slr.github.io/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
       <title>Dan Guo</title>
-      <link>https://example.com/author/dan-guo/</link>
+      <link>https://ustc-slr.github.io/author/dan-guo/</link>
     </image>
     
     <item>
       <title>Hierarchical LSTM for sign language translation</title>
-      <link>https://example.com/publication/guo2018hierarchical/</link>
+      <link>https://ustc-slr.github.io/publication/guo2018hierarchical/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/guo2018hierarchical/</guid>
+      <guid>https://ustc-slr.github.io/publication/guo2018hierarchical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connectionist Temporal Fusion for Sign Language Translation</title>
-      <link>https://example.com/publication/wang2018connectionist/</link>
+      <link>https://ustc-slr.github.io/publication/wang2018connectionist/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/wang2018connectionist/</guid>
+      <guid>https://ustc-slr.github.io/publication/wang2018connectionist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sign language recognition based on adaptive HMMs with data augmentation</title>
-      <link>https://example.com/publication/guo2016sign/</link>
+      <link>https://ustc-slr.github.io/publication/guo2016sign/</link>
       <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/guo2016sign/</guid>
+      <guid>https://ustc-slr.github.io/publication/guo2016sign/</guid>
       <description></description>
     </item>
     

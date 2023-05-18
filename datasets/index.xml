@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Datasets | Visual Sign Language Research Group</title>
-    <link>https://example.com/datasets/</link>
-      <atom:link href="https://example.com/datasets/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ustc-slr.github.io/datasets/</link>
+      <atom:link href="https://ustc-slr.github.io/datasets/index.xml" rel="self" type="application/rss+xml" />
     <description>Datasets</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ustc-slr.github.io/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
       <title>Datasets</title>
-      <link>https://example.com/datasets/</link>
+      <link>https://ustc-slr.github.io/datasets/</link>
     </image>
     
     <item>
       <title>CSL-Daily Dataset</title>
-      <link>https://example.com/datasets/2021_csl_daily/</link>
+      <link>https://ustc-slr.github.io/datasets/2021_csl_daily/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/datasets/2021_csl_daily/</guid>
+      <guid>https://ustc-slr.github.io/datasets/2021_csl_daily/</guid>
       <description>&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p class=&#34;textBlock&#34;&gt;
     CSL-Daily is a large-scale continuous SLT dataset. 
@@ -61,9 +61,9 @@
     
     <item>
       <title>NMFs-CSL Dataset</title>
-      <link>https://example.com/datasets/2020_nmfs_csl/</link>
+      <link>https://ustc-slr.github.io/datasets/2020_nmfs_csl/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/datasets/2020_nmfs_csl/</guid>
+      <guid>https://ustc-slr.github.io/datasets/2020_nmfs_csl/</guid>
       <description>&lt;center&gt;&lt;img src=&#34;./Intro.jpg&#34; border=&#34;0&#34; width=&#34;85%&#34;&gt;&lt;/center&gt;
 &lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p class=&#34;textBlock&#34;&gt;
@@ -102,9 +102,9 @@ This &lt;b&gt;NMFs-CSL&lt;/b&gt; dataset contains 1,067 Chinese sign words. It i
     
     <item>
       <title>CSL &amp; SLR500 Dataset</title>
-      <link>https://example.com/datasets/2015_csl/</link>
+      <link>https://ustc-slr.github.io/datasets/2015_csl/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/datasets/2015_csl/</guid>
+      <guid>https://ustc-slr.github.io/datasets/2015_csl/</guid>
       <description>&lt;h2&gt;Download (&lt;i&gt;&lt;font color=&#34;#FF0000&#34;&gt;*Important&lt;/font&gt; &lt;/i&gt;)&lt;/h2&gt;
 &lt;p class=&#34;textBlock&#34;&gt;
 	The CSL databases are released to universities and research institutes for research purpose only. To request the access right to the data resources, please follow the instructions below: 

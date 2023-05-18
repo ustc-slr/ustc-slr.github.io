@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qilin Zhang | Visual Sign Language Research Group</title>
-    <link>https://example.com/author/qilin-zhang/</link>
-      <atom:link href="https://example.com/author/qilin-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ustc-slr.github.io/author/qilin-zhang/</link>
+      <atom:link href="https://ustc-slr.github.io/author/qilin-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Qilin Zhang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ustc-slr.github.io/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
       <title>Qilin Zhang</title>
-      <link>https://example.com/author/qilin-zhang/</link>
+      <link>https://ustc-slr.github.io/author/qilin-zhang/</link>
     </image>
     
     <item>
       <title>Video-based sign language recognition without temporal segmentation</title>
-      <link>https://example.com/publication/huang2018video/</link>
+      <link>https://ustc-slr.github.io/publication/huang2018video/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/huang2018video/</guid>
+      <guid>https://ustc-slr.github.io/publication/huang2018video/</guid>
       <description></description>
     </item>
     

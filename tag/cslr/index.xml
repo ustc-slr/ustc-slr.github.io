@@ -2,117 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CSLR | Visual Sign Language Research Group</title>
-    <link>https://example.com/tag/cslr/</link>
-      <atom:link href="https://example.com/tag/cslr/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ustc-slr.github.io/tag/cslr/</link>
+      <atom:link href="https://ustc-slr.github.io/tag/cslr/index.xml" rel="self" type="application/rss+xml" />
     <description>CSLR</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ustc-slr.github.io/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
       <title>CSLR</title>
-      <link>https://example.com/tag/cslr/</link>
+      <link>https://ustc-slr.github.io/tag/cslr/</link>
     </image>
     
     <item>
       <title>SignBERT&#43;: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding</title>
-      <link>https://example.com/publication/hu2023signbert/</link>
+      <link>https://ustc-slr.github.io/publication/hu2023signbert/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hu2023signbert/</guid>
+      <guid>https://ustc-slr.github.io/publication/hu2023signbert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prior-aware Cross Modality Augmentation Learning for Continuous Sign Language Recognition</title>
-      <link>https://example.com/publication/hu2023prior/</link>
+      <link>https://ustc-slr.github.io/publication/hu2023prior/</link>
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hu2023prior/</guid>
+      <guid>https://ustc-slr.github.io/publication/hu2023prior/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborative Multilingual Continuous Sign Language Recognition: A Unified Framework</title>
-      <link>https://example.com/publication/hu2022collaborative/</link>
+      <link>https://ustc-slr.github.io/publication/hu2022collaborative/</link>
       <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hu2022collaborative/</guid>
+      <guid>https://ustc-slr.github.io/publication/hu2022collaborative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation</title>
-      <link>https://example.com/publication/zhou2021spatial/</link>
+      <link>https://ustc-slr.github.io/publication/zhou2021spatial/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhou2021spatial/</guid>
+      <guid>https://ustc-slr.github.io/publication/zhou2021spatial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic Boundary Detection With Reinforcement Learning for Continuous Sign Language Recognition</title>
-      <link>https://example.com/publication/wei2020semantic/</link>
+      <link>https://ustc-slr.github.io/publication/wei2020semantic/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/wei2020semantic/</guid>
+      <guid>https://ustc-slr.github.io/publication/wei2020semantic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boosting continuous sign language recognition via cross modality augmentation</title>
-      <link>https://example.com/publication/pu2020boosting/</link>
+      <link>https://ustc-slr.github.io/publication/pu2020boosting/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pu2020boosting/</guid>
+      <guid>https://ustc-slr.github.io/publication/pu2020boosting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous sign language recognition via reinforcement learning</title>
-      <link>https://example.com/publication/zhang2019continuous/</link>
+      <link>https://ustc-slr.github.io/publication/zhang2019continuous/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhang2019continuous/</guid>
+      <guid>https://ustc-slr.github.io/publication/zhang2019continuous/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep grammatical multi-classifier for continuous sign language recognition</title>
-      <link>https://example.com/publication/wei2019deep/</link>
+      <link>https://ustc-slr.github.io/publication/wei2019deep/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/wei2019deep/</guid>
+      <guid>https://ustc-slr.github.io/publication/wei2019deep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic pseudo label decoding for continuous sign language recognition</title>
-      <link>https://example.com/publication/zhou2019dynamic/</link>
+      <link>https://ustc-slr.github.io/publication/zhou2019dynamic/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhou2019dynamic/</guid>
+      <guid>https://ustc-slr.github.io/publication/zhou2019dynamic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial-temporal multi-cue network for continuous sign language recognition</title>
-      <link>https://example.com/publication/zhou2020spatial/</link>
+      <link>https://ustc-slr.github.io/publication/zhou2020spatial/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhou2020spatial/</guid>
+      <guid>https://ustc-slr.github.io/publication/zhou2020spatial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iterative alignment network for continuous sign language recognition</title>
-      <link>https://example.com/publication/pu2019iterative/</link>
+      <link>https://ustc-slr.github.io/publication/pu2019iterative/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pu2019iterative/</guid>
+      <guid>https://ustc-slr.github.io/publication/pu2019iterative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dilated convolutional network with iterative optimization for continuous sign language recognition</title>
-      <link>https://example.com/publication/pu2018dilated/</link>
+      <link>https://ustc-slr.github.io/publication/pu2018dilated/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pu2018dilated/</guid>
+      <guid>https://ustc-slr.github.io/publication/pu2018dilated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Threshold-based HMM-DTW Approach for Continuous Sign Language Recognition</title>
-      <link>https://example.com/publication/zhang2014threshold/</link>
+      <link>https://ustc-slr.github.io/publication/zhang2014threshold/</link>
       <pubDate>Thu, 10 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhang2014threshold/</guid>
+      <guid>https://ustc-slr.github.io/publication/zhang2014threshold/</guid>
       <description></description>
     </item>
     

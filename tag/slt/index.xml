@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SLT | Visual Sign Language Research Group</title>
-    <link>https://example.com/tag/slt/</link>
-      <atom:link href="https://example.com/tag/slt/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ustc-slr.github.io/tag/slt/</link>
+      <atom:link href="https://ustc-slr.github.io/tag/slt/index.xml" rel="self" type="application/rss+xml" />
     <description>SLT</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ustc-slr.github.io/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
       <title>SLT</title>
-      <link>https://example.com/tag/slt/</link>
+      <link>https://ustc-slr.github.io/tag/slt/</link>
     </image>
     
     <item>
       <title>SignBERT&#43;: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding</title>
-      <link>https://example.com/publication/hu2023signbert/</link>
+      <link>https://ustc-slr.github.io/publication/hu2023signbert/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hu2023signbert/</guid>
+      <guid>https://ustc-slr.github.io/publication/hu2023signbert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditional Sentence Generation and Cross-Modal Reranking for Sign Language Translation</title>
-      <link>https://example.com/publication/zhao2021conditional/</link>
+      <link>https://ustc-slr.github.io/publication/zhao2021conditional/</link>
       <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhao2021conditional/</guid>
+      <guid>https://ustc-slr.github.io/publication/zhao2021conditional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation</title>
-      <link>https://example.com/publication/zhou2021spatial/</link>
+      <link>https://ustc-slr.github.io/publication/zhou2021spatial/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhou2021spatial/</guid>
+      <guid>https://ustc-slr.github.io/publication/zhou2021spatial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving sign language translation with monolingual data by sign back-translation</title>
-      <link>https://example.com/publication/zhou2021improving/</link>
+      <link>https://ustc-slr.github.io/publication/zhou2021improving/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhou2021improving/</guid>
+      <guid>https://ustc-slr.github.io/publication/zhou2021improving/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical LSTM for sign language translation</title>
-      <link>https://example.com/publication/guo2018hierarchical/</link>
+      <link>https://ustc-slr.github.io/publication/guo2018hierarchical/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/guo2018hierarchical/</guid>
+      <guid>https://ustc-slr.github.io/publication/guo2018hierarchical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Connectionist Temporal Fusion for Sign Language Translation</title>
-      <link>https://example.com/publication/wang2018connectionist/</link>
+      <link>https://ustc-slr.github.io/publication/wang2018connectionist/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/wang2018connectionist/</guid>
+      <guid>https://ustc-slr.github.io/publication/wang2018connectionist/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jian Zhao | Visual Sign Language Research Group</title>
-    <link>https://example.com/author/jian-zhao/</link>
-      <atom:link href="https://example.com/author/jian-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ustc-slr.github.io/author/jian-zhao/</link>
+      <atom:link href="https://ustc-slr.github.io/author/jian-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Jian Zhao</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ustc-slr.github.io/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
       <title>Jian Zhao</title>
-      <link>https://example.com/author/jian-zhao/</link>
+      <link>https://ustc-slr.github.io/author/jian-zhao/</link>
     </image>
     
     <item>
       <title>Conditional Sentence Generation and Cross-Modal Reranking for Sign Language Translation</title>
-      <link>https://example.com/publication/zhao2021conditional/</link>
+      <link>https://ustc-slr.github.io/publication/zhao2021conditional/</link>
       <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhao2021conditional/</guid>
+      <guid>https://ustc-slr.github.io/publication/zhao2021conditional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic Boundary Detection With Reinforcement Learning for Continuous Sign Language Recognition</title>
-      <link>https://example.com/publication/wei2020semantic/</link>
+      <link>https://ustc-slr.github.io/publication/wei2020semantic/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/wei2020semantic/</guid>
+      <guid>https://ustc-slr.github.io/publication/wei2020semantic/</guid>
       <description></description>
     </item>
     

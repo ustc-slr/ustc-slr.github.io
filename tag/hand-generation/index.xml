@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hand Generation | Visual Sign Language Research Group</title>
-    <link>https://example.com/tag/hand-generation/</link>
-      <atom:link href="https://example.com/tag/hand-generation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ustc-slr.github.io/tag/hand-generation/</link>
+      <atom:link href="https://ustc-slr.github.io/tag/hand-generation/index.xml" rel="self" type="application/rss+xml" />
     <description>Hand Generation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ustc-slr.github.io/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
       <title>Hand Generation</title>
-      <link>https://example.com/tag/hand-generation/</link>
+      <link>https://ustc-slr.github.io/tag/hand-generation/</link>
     </image>
     
     <item>
       <title>Hand-Object Interaction Image Generation</title>
-      <link>https://example.com/publication/hu2022handobject/</link>
+      <link>https://ustc-slr.github.io/publication/hu2022handobject/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hu2022handobject/</guid>
+      <guid>https://ustc-slr.github.io/publication/hu2022handobject/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model-Aware Gesture-to-Gesture Translation</title>
-      <link>https://example.com/publication/hu2021model/</link>
+      <link>https://ustc-slr.github.io/publication/hu2021model/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hu2021model/</guid>
+      <guid>https://ustc-slr.github.io/publication/hu2021model/</guid>
       <description></description>
     </item>
     

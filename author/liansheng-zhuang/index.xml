@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Liansheng Zhuang | Visual Sign Language Research Group</title>
-    <link>https://example.com/author/liansheng-zhuang/</link>
-      <atom:link href="https://example.com/author/liansheng-zhuang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ustc-slr.github.io/author/liansheng-zhuang/</link>
+      <atom:link href="https://ustc-slr.github.io/author/liansheng-zhuang/index.xml" rel="self" type="application/rss+xml" />
     <description>Liansheng Zhuang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ustc-slr.github.io/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
       <title>Liansheng Zhuang</title>
-      <link>https://example.com/author/liansheng-zhuang/</link>
+      <link>https://ustc-slr.github.io/author/liansheng-zhuang/</link>
     </image>
     
     <item>
       <title>Continuous sign language recognition via reinforcement learning</title>
-      <link>https://example.com/publication/zhang2019continuous/</link>
+      <link>https://ustc-slr.github.io/publication/zhang2019continuous/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhang2019continuous/</guid>
+      <guid>https://ustc-slr.github.io/publication/zhang2019continuous/</guid>
       <description></description>
     </item>
     

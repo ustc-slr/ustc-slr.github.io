@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jihai Zhang | Visual Sign Language Research Group</title>
-    <link>https://example.com/author/jihai-zhang/</link>
-      <atom:link href="https://example.com/author/jihai-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ustc-slr.github.io/author/jihai-zhang/</link>
+      <atom:link href="https://ustc-slr.github.io/author/jihai-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jihai Zhang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jul 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ustc-slr.github.io/media/icon_hu393e4df0623b7154086f58675ba04221_25427_512x512_fill_lanczos_center_3.png</url>
       <title>Jihai Zhang</title>
-      <link>https://example.com/author/jihai-zhang/</link>
+      <link>https://ustc-slr.github.io/author/jihai-zhang/</link>
     </image>
     
     <item>
       <title>Chinese sign language recognition with adaptive HMM</title>
-      <link>https://example.com/publication/zhang2016chinese/</link>
+      <link>https://ustc-slr.github.io/publication/zhang2016chinese/</link>
       <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhang2016chinese/</guid>
+      <guid>https://ustc-slr.github.io/publication/zhang2016chinese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sign Language Recognition Based on Trajectory Modeling with HMMs</title>
-      <link>https://example.com/publication/pu2016sign/</link>
+      <link>https://ustc-slr.github.io/publication/pu2016sign/</link>
       <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pu2016sign/</guid>
+      <guid>https://ustc-slr.github.io/publication/pu2016sign/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A new system for Chinese sign language recognition</title>
-      <link>https://example.com/publication/zhang2015new/</link>
+      <link>https://ustc-slr.github.io/publication/zhang2015new/</link>
       <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhang2015new/</guid>
+      <guid>https://ustc-slr.github.io/publication/zhang2015new/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Threshold-based HMM-DTW Approach for Continuous Sign Language Recognition</title>
-      <link>https://example.com/publication/zhang2014threshold/</link>
+      <link>https://ustc-slr.github.io/publication/zhang2014threshold/</link>
       <pubDate>Thu, 10 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zhang2014threshold/</guid>
+      <guid>https://ustc-slr.github.io/publication/zhang2014threshold/</guid>
       <description></description>
     </item>
     
